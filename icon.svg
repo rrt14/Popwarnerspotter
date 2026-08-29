@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#131510"/>
+  <g fill="none" stroke="#F6F6F0" stroke-width="10" opacity="0.28">
+    <rect x="64" y="112" width="112" height="112"/>
+    <rect x="200" y="112" width="112" height="112"/>
+    <rect x="336" y="112" width="112" height="112"/>
+    <rect x="64" y="248" width="112" height="112"/>
+    <rect x="336" y="248" width="112" height="112"/>
+  </g>
+  <rect x="200" y="248" width="112" height="112" fill="#F6F6F0"/>
+  <text x="256" y="330" font-family="Barlow Condensed, Oswald, Arial Narrow, sans-serif"
+        font-size="92" font-weight="700" fill="#131510" text-anchor="middle">11</text>
+  <text x="256" y="432" font-family="Barlow Condensed, Oswald, Arial Narrow, sans-serif"
+        font-size="54" font-weight="700" fill="#F6F6F0" text-anchor="middle"
+        letter-spacing="4">PLAY COUNT</text>
+</svg>
